@@ -1,7 +1,7 @@
 # kuljitkaur
 my READme
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h2 align="left">Hi 👋! My name is kuljit kaur — a passionate learner in technology.</h2>
+ 
 ###
 
 <div align="center">
@@ -48,4 +48,4 @@ my READme
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+
