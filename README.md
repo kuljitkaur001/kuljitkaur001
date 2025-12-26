@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **kuljitkaur77775@gmail.com** For Collaboration/Project or 
 - 🔭 **I’m currently working on:** Data analysis and machine learning projects using Python
 - 🌱 **I’m currently learning:** Data Science, Machine Learning, SQL, and Model Deployment basics
 - 👯 **I’m looking to collaborate on:** Beginner-friendly Data Science & ML projects
-- 🤔 **I’m looking for help with:** Improving model performance and real-world datasets
+- 🤔 **I’m looking for help with:** Improving model performance and real-world datasets  
 - 💬 **Ask me about:** Python, Data Analysis, Machine Learning
 - 📫 **How to reach me:** kuljitkaur77775@gmail.com
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights
